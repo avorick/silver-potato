@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Application Framework</string>
+
+    <!-- share -->
+    <string name="fb_share_msg">Check out this great tipping tool! Know how much to tip, track history
+		and manage your finances! It\'s 100% free and available on Google Play,
+		https://play.google.com/store/apps/details?id=com.blog.ljtatum.tipcalculator</string>
+    <string name="linkedin_share_msg">Came across this great tipping tool! Know how much to tip, track history
+		and manage your finances! It\'s 100% free and available on Google Play. Download it today!
+		https://play.google.com/store/apps/details?id=com.blog.ljtatum.tipcalculator</string>
+    <string name="twitter_share_msg">Know how much to tip, track history and manage your finances!</string>
+    <string name="google_play_link">https://play.google.com/store/apps/details?id=com.blog.ljtatum.tipcalculator</string>
+    <string name="spread_word">Spread the Word:</string>
+    <string name="share_desc">Enjoying the app? Tell your friends about it! And don\'t forget to
+		show your appreciation by rating this app. Thank you!</string>
+
+</resources>

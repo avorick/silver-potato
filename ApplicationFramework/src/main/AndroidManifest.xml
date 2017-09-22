@@ -1,0 +1,9 @@
+<manifest
+    package="com.app.framework"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:versionCode="1">
+
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+</manifest>
